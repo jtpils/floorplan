@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[6],{Dtc0:function(e,t,n){"use strict";var l=n("TqRt");Object.defineProperty(t,"__esModule",{value:!0}),t.default=o;var a=l(n("q1tI")),u=l(n("dPBl"));function o(){return a.default.createElement("div",null,a.default.createElement(u.default,{to:"/floorplan"}))}}}]);
